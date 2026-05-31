@@ -1,0 +1,2 @@
+# House-Price-Prediction-using-Machine-Learning-Internship-
+A Machine Learning-based web application that predicts house prices using property features such as location, area, bedrooms, bathrooms, condition, and grade. Built with a Gradient Boosting Regressor and Streamlit, it provides real-time price predictions, market insights, investment recommendations, EMI calculations, and future value forecasting.
