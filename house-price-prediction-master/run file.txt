@@ -1,0 +1,2 @@
+cd .\house-price-prediction-master\
+jupyter notebook housesales.ipynb
